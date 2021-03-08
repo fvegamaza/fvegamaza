@@ -1,6 +1,9 @@
 ## Welcome to my Github :rainbow:
 
-Here I try to document my work in machile learning, and also share with you my experitise in this field. To make it simple, in each of my projects you'll find (I'll do my best to keep it like this) the following three sections:
+Here I try to document my work in machile learning, and also share with you my experitise in this field. To make it simple, in each of my projects you'll find (I'll do my best to keep it like this) the following four sections:
+-
+
+- "What was about?" -> One sentence that summarize the project
 
 - "My experience through this" -> How I feel doing the project, what I need to do better and what were my lows and highs
 
