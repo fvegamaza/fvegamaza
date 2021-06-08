@@ -1,6 +1,6 @@
 ## Welcome to my Github :rainbow:
 
-Here I try to document my work in machine learning and also share with you my experience in this field. To keep it simple, in each of my projects you'll find the following four sections:
+Here I'll document my work in machine learning and share with you my experience in this field. With the objective to keep as simple as possible, in each of my projects you'll find the following four .readme sections:
 
 - "What was about?" -> One sentence that summarizes the project
 
